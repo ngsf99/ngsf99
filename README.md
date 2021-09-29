@@ -1,6 +1,6 @@
 - 👋 Hi, My name is Ng Sheong Fong. You can call me Mason.
-- 👀 I’m interested in making websites and smartphone applications.
-- 🌱 I’m currently learning about Unity and Python
+- 👀 I’m interested in becoming a FrontEnd developer. 
+- 🌱 I’m currently learning about Javascript 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
